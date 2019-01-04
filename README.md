@@ -1,12 +1,11 @@
 ## ReactJS 심화학습
 
 **공부 참고사이트**
-
-[동영상 강의 Velopert] : https://velopert.com/3676
-[리액트를 다루는 기술] : https://book.naver.com/bookdb/book_detail.nhn?bid=13799583 
-[리액트로 게시판 만들기] : http://forest71.tistory.com/183
-[Create-react-app 공식사이트] https://facebook.github.io/create-react-app/docs/getting-started
-[React 공식문서] : https://reactjs.org/
+* [동영상 강의 Velopert] : https://velopert.com/3676
+* [리액트를 다루는 기술] : https://book.naver.com/bookdb/book_detail.nhn?bid=13799583 
+* [리액트로 게시판 만들기] : http://forest71.tistory.com/183
+* [Create-react-app 공식사이트] https://facebook.github.io/create-react-app/docs/getting-started
+* [React 공식문서] : https://reactjs.org/
 
 ## 1. create-react-app
 
